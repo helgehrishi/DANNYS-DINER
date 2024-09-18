@@ -7,7 +7,7 @@ Welcome to the **Danny's Diner** data analysis project! This project focuses on 
 
 ## Danny's Diner Analysis PDF
 
-For a detailed report and analysis, check out the [Danny's Diner Analysis PDF](./DANNY'S_DINER.pdf).
+For a detailed report and analysis, check out the [DANNY'S DINER ANALYSIS PDF](./DANNY'S_DINER.pdf).
 
 
 ## Project Overview
