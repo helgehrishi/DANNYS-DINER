@@ -5,7 +5,7 @@ The project aims to analyze customer behavior at Danny's Diner to improve operat
 
 Welcome to the **Danny's Diner** data analysis project! This project focuses on analyzing customer transactions to extract valuable insights into purchasing behaviors, popular menu items, and customer loyalty. The goal is to assist Danny in making data-driven decisions to improve customer satisfaction and optimize menu offerings.
 
-## Danny's Diner Analysis PDF
+## DANNY'S DINER ANALYSIS PDF
 
 For a detailed report and analysis, check out the [DANNY'S DINER ANALYSIS PDF](./DANNY'S_DINER.pdf).
 
